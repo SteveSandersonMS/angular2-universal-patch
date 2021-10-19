@@ -3,6 +3,10 @@
   "version": "0.2.1",
   "description": "Updates angular2-universal to support Angular 2.3+. Will no longer be needed when Angular 4 is released.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveSandersonMS/angular2-universal-patch.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
